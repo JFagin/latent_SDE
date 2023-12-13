@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+torch
+torchsde
+tqdm
+astropy
+astroML
+gpytorch
+botorch
