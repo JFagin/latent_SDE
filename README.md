@@ -26,7 +26,7 @@ If you found this codebase useful in your research, please consider citing:
 ```
 @misc{fagin2023latent,
       title={Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties}, 
-      author={Joshua Fagin and Ji Won Park and Henry Best and K. E Saavik Ford and Matthew J. Graham and V. Ashley Villar and Shirley Ho and James Hung-Hsu Chan and Matthew O'Dowd},
+      author={Joshua Fagin and Ji Won Park and Henry Best and James Hung-Hsu Chan and K. E Saavik Ford and Matthew J. Graham and V. Ashley Villar and Shirley Ho and Matthew O'Dowd},
       year={2023},
       eprint={2304.04277},
       archivePrefix={arXiv},
@@ -38,7 +38,7 @@ If you found this codebase useful in your research, please consider citing:
 For inquiries or to request the full training set, reach out to: jfagin@gradcenter.cuny.edu
 
 ### References
-- Joshua Fagin, Ji Won Park, Henry Best, K.E Saavik Ford, Matthew J. Graham, V. Ashley Villar, Shirley Ho, James Hung-Hsu Chan, Matthew O'Dowd. "Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties". 2023. [[arXiv]](https://arxiv.org/abs/2304.04277) 
+- Joshua Fagin, Ji Won Park, Henry Best, James Hung-Hsu Chan, K.E Saavik Ford, Matthew J. Graham, V. Ashley Villar, Shirley Ho, Matthew O'Dowd. "Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties". 2023. [[arXiv]](https://arxiv.org/abs/2304.04277) 
 - Xuechen Li, Ting-Kam Leonard Wong, Ricky T. Q. Chen, David Duvenaud. "Scalable Gradients for Stochastic Differential Equations". *International Conference on Artificial Intelligence and Statistics.* 2020. [[arXiv]](https://arxiv.org/pdf/2001.01328.pdf)
 - Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu. "Recurrent Neural Networks for Multivariate Time Series with Missing Values
 ". *Nature.* 2018. [[arXiv]](https://arxiv.org/pdf/2001.01328.pdf)
