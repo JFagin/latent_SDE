@@ -468,7 +468,8 @@ def get_observed_LC(LC,cadence_index,cadence):
             else:
                 sigma_list_at_t = sigma_list[index_unique[j]:]
 
-            new_sigma = np.sqrt(np.sum(sigma_list_at_t**2))/len(sigma_list_at_t)
+            # combine using variance weighting by the precision
+            new_sigma = 1/np.sqrt(np.sum(1.0/sigma_list_at_t**2))
             sigma_unique.append(new_sigma)
 
         sigma_unique = np.array(sigma_unique)
