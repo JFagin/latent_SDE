@@ -1,4 +1,4 @@
-# Latent SDEs for Modelling Quasar Variability and Inferring Black Hole Properties
+# Latent SDEs for Modeling Quasar Variability and Inferring Black Hole Properties
 
 Code for "Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties" [[arXiv]](https://arxiv.org/abs/2304.04277). Here we model quasar variability as a [stochastic differential equation (SDE)](https://en.wikipedia.org/wiki/Stochastic_differential_equation) using latent SDEs. Our model can simultaneously reconstruct quasar light curves including at unobserved times and perform parameter inference on variability and black hole properties. Our method is applicable to any time series with missing or irregularly sampled data. 
 
