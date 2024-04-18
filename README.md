@@ -36,7 +36,6 @@ pages = {104},
 author = {Joshua Fagin and Ji Won Park and Henry Best and James H. H. Chan and K. E. Saavik Ford and Matthew J. Graham and V. Ashley Villar and Shirley Ho and Matthew O’Dowd},
 title = {Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties},
 journal = {The Astrophysical Journal},
-abstract = {}
 }
 ```
 
