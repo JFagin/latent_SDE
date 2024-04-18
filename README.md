@@ -24,13 +24,19 @@ where $\epsilon(t)$ is a white noise process with mean zero and variance one. $X
 If you found this codebase useful in your research, please consider citing:
 
 ```
-@misc{fagin2023latent,
-      title={Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties}, 
-      author={Joshua Fagin and Ji Won Park and Henry Best and James Hung-Hsu Chan and K. E Saavik Ford and Matthew J. Graham and V. Ashley Villar and Shirley Ho and Matthew O'Dowd},
-      year={2023},
-      eprint={2304.04277},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.GA}
+@article{Fagin_2024,
+doi = {10.3847/1538-4357/ad2988},
+url = {https://dx.doi.org/10.3847/1538-4357/ad2988},
+year = {2024},
+month = {apr},
+publisher = {The American Astronomical Society},
+volume = {965},
+number = {2},
+pages = {104},
+author = {Joshua Fagin and Ji Won Park and Henry Best and James H. H. Chan and K. E. Saavik Ford and Matthew J. Graham and V. Ashley Villar and Shirley Ho and Matthew O’Dowd},
+title = {Latent Stochastic Differential Equations for Modeling Quasar Variability and Inferring Black Hole Properties},
+journal = {The Astrophysical Journal},
+abstract = {}
 }
 ```
 
